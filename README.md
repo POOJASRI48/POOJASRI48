@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm POOJA SRI S</h1>
+<h1 align="center">Hey there!!This is POOJA SRI S</h1>
 <h3 align="center">Learning. Building. Improving.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumb.r2.moele.me/t/35778/35768411/a-0032.jpg">
 
-- 📫 How to reach me **poojasenkavi@gmail.com**
+- 📫 reach me through:**poojasenkavi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
