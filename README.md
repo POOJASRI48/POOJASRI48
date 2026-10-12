@@ -76,16 +76,6 @@ status   : [ ONLINE ]
 <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
 
-## 🐍 The commit trail
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/POOJASRI48/POOJASRI48/output/github-snake-dark.svg" alt="contribution snake" />
-</div>
-
-<div align="center">
-<img src="./assets/divider.svg" width="100%" alt="divider" />
-</div>
-
 ## 📫 Ping me
 
 <div align="center">
