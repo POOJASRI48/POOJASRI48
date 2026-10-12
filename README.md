@@ -1,19 +1,99 @@
-<h1 align="center">Hey there!!This is POOJA SRI S</h1>
-<h3 align="center">Learning. Building. Improving.</h3>
-<img align="right" alt="Coding" width="400" src="https://thumb.r2.moele.me/t/35778/35768411/a-0032.jpg">
+<div align="center">
 
-- 📫 reach me through:**poojasenkavi@gmail.com**
+![banner](./assets/banner.svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/poojasri-senthilnathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/poojasri-senthilnathan" height="30" width="40" /></a>
-<a href="https://instagram.com/chaos_.84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaos_.84" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/poojasri04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="poojasri04" height="30" width="40" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&color=F2C4B8&center=true&vCenter=true&width=700&height=45&lines=Learning.+Building.+Improving.;Full-stack+builder+from+Coimbatore;Python+%C2%B7+JavaScript+%C2%B7+Django+%C2%B7+React;Status%3A+ONLINE+and+shipping" alt="typing status" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img src="https://hits.sh/github.com/POOJASRI48.svg?style=for-the-badge&label=VISITORS&color=D4958A&labelColor=110E10" alt="visitors" />
+<img src="https://img.shields.io/github/followers/POOJASRI48?style=for-the-badge&color=8C4F57&labelColor=110E10&label=FOLLOWERS" alt="followers" />
 
+<img src="./assets/heartbeat.svg" width="100%" alt="heartbeat" />
 
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
+</div>
 
+## 💻 The developer
+
+```text
+$ whoami
+→ pooja sri s
+
+$ cat profile.txt
+role     : full-stack builder
+focus    : web apps · AI tools · problem solving
+mindset  : learning. building. improving.
+base     : coimbatore, india
+status   : [ ONLINE ]
+```
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
+
+## ⚙️ Under the hood
+
+| Module | Readout |
+| :--- | :--- |
+| **Primary stack** | Python · JavaScript · Django · React |
+| **Current mission** | Shipping full-stack and AI-powered projects |
+| **Learning queue** | Next.js · PostgreSQL · Data Structures & Algorithms |
+
+## 🗂️ The build log
+
+| Project | Payload | Stack |
+| :--- | :--- | :--- |
+| **[`asset-monitoring-system`](https://github.com/POOJASRI48/asset-monitoring-system)** | Django app to track, monitor and report on organizational assets with depreciation calculation | `Django` |
+| **[`collegeconnect-wa-campaigner`](https://github.com/POOJASRI48/collegeconnect-wa-campaigner)** | Streamlit dashboard to upload contacts, compose and preview WhatsApp campaigns | `Python` |
+| **[`ENVISIONAI`](https://github.com/POOJASRI48/ENVISIONAI)** | AI image platform that turns text prompts into visuals you can explore and share | `JavaScript` |
+| **[`LEETCODE-`](https://github.com/POOJASRI48/LEETCODE-)** | Problem-solving solutions, one commit at a time | `Python` |
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
+
+## 🛠️ The toolkit
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,django,php,dotnet,mysql,postgres,mongodb,git,github&theme=dark" alt="skills" />
+</div>
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
+
+## 📊 Performance
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=POOJASRI48&show_icons=true&hide_border=false&border_color=D4958A&bg_color=110E10&title_color=F2C4B8&icon_color=D4958A&text_color=EDE3E0&count_private=true&include_all_commits=true&custom_title=POOJA+SRI+S+%C2%B7+STATS" width="32%" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POOJASRI48&layout=compact&hide_border=false&border_color=D4958A&bg_color=110E10&title_color=F2C4B8&text_color=EDE3E0&custom_title=TOP+LANGUAGES" width="32%" alt="top languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=POOJASRI48&background=110E10&ring=D4958A&fire=F2C4B8&currStreakLabel=F2C4B8&currStreakNum=FFE6DE&sideNums=FFE6DE&sideLabels=D4958A&dates=8C4F57&stroke=8C4F57&border=D4958A" width="32%" alt="streak" />
+<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=POOJASRI48&bg_color=110E10&color=D4958A&line=D4958A&point=FFE6DE&area=true&area_color=8C4F57&hide_border=true&title_color=F2C4B8&custom_title=ACTIVITY+ROUTE" width="100%" alt="activity graph" />
+</div>
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
+
+## 🐍 The commit trail
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/POOJASRI48/POOJASRI48/output/github-snake-dark.svg" alt="contribution snake" />
+</div>
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
+
+## 📫 Ping me
+
+<div align="center">
+<a href="https://www.linkedin.com/in/poojasri-senthilnathan"><img src="https://img.shields.io/badge/LINKEDIN-D4958A?style=for-the-badge&logo=linkedin&logoColor=110E10&labelColor=110E10" alt="LinkedIn" /></a>
+<a href="mailto:poojasenkavi@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D4958A?style=for-the-badge&logo=gmail&logoColor=110E10&labelColor=110E10" alt="Email" /></a>
+<a href="https://github.com/POOJASRI48"><img src="https://img.shields.io/badge/GITHUB-D4958A?style=for-the-badge&logo=github&logoColor=110E10&labelColor=110E10" alt="GitHub" /></a>
+</div>
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
