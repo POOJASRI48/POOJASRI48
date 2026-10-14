@@ -1,1 +1,70 @@
+<svg xNodeJsns="http://www.w3.org/2000/svg" viewBox="0 0 1280 290" width="1280" height="290" role="img" aria-label="Open Sanjev's portfolio">
+<defs>
+  <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2F6BFF"/><stop offset="1" stop-color="#0A2A8F"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#030717"/><stop offset="1" stop-color="#0A1D5E"/></linearGradient>
+  <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.5" fill="#fff" opacity=".08"/></pattern>
+  <clipPath id="pn"><rect x="14" y="14" width="1240" height="244"/></clipPath>
+  <clipPath id="win"><rect x="800" y="44" width="400" height="150" rx="12"/></clipPath>
+</defs>
+<style>
+  .t{font-family:Anton,Impact,Haettenschweiler,"Arial Narrow Bold","Arial Black",sans-serif}
+  .u{font-family:Inter,"Segoe UI",Arial,sans-serif;font-weight:700}
+  .tick{animation:tick 26s linear infinite}
+  .btn{transform-origin:240px 190px;animation:beat 1.6s ease-in-out infinite}
+  .rays{transform-origin:1000px 118px;animation:spin 70s linear infinite}
+  .bar{transform-box:fill-box;transform-origin:left;animation:grow 3.2s ease-in-out infinite alternate}
+  .bar:nth-of-type(2){animation-delay:-1s}.bar:nth-of-type(3){animation-delay:-2s}
+  .cur{animation:blink 1s steps(1) infinite}
+  @keyframes tick{to{transform:translateX(-960px)}}
+  @keyframes beat{50%{transform:scale(1.05)}}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes grow{from{transform:scaleX(.35)}to{transform:scaleX(1)}}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<!-- hard comic shadow + panel -->
+<rect x="26" y="26" width="1240" height="244" fill="#000" opacity=".6"/>
+<rect x="14" y="14" width="1240" height="244" fill="url(#panel)" stroke="#fff" stroke-width="6"/>
+<g clip-path="url(#pn)">
+  <rect x="14" y="14" width="1240" height="244" fill="url(#dots)"/>
+  <g class="rays"><circle cx="1000" cy="118" r="300" fill="none" stroke="#fff" stroke-opacity=".06" stroke-width="600" stroke-dasharray="40 40"/></g>
 
+  <!-- left copy -->
+  <text class="u" x="60" y="64" font-size="13" letter-spacing="6" fill="#8AB4FF">THE FULL STORY</text>
+  <text class="t" x="60" y="132" font-size="74" fill="#fff" stroke="#030717" stroke-width="4" paint-order="stroke" textLength="640" lengthAdjust="spacingAndGlyphs">SEE MY PORTFOLIO</text>
+  <text class="u" x="62" y="154" font-size="16" fill="#D9E6FF" letter-spacing="1">Projects  ·  Toolchain  ·  Hackathon wins  ·  Process</text>
+
+  <!-- button -->
+  <g class="btn">
+    <rect x="62" y="170" width="356" height="40" rx="20" fill="#000" opacity=".5" transform="translate(5 5)"/>
+    <rect x="62" y="170" width="356" height="40" rx="20" fill="url(#blue)" stroke="#fff" stroke-width="3"/>
+    <text class="u" x="240" y="196" text-anchor="middle" font-size="15" letter-spacing="4" fill="#fff">OPEN THE SITE  ↗️</text>
+  </g>
+
+  <!-- browser mock -->
+  <g>
+    <rect x="812" y="56" width="400" height="150" rx="12" fill="#000" opacity=".5"/>
+    <rect x="800" y="44" width="400" height="150" rx="12" fill="#030717" stroke="#fff" stroke-opacity=".5" stroke-width="2"/>
+    <g clip-path="url(#win)">
+      <rect x="800" y="44" width="400" height="26" fill="#fff" fill-opacity=".08"/>
+      <circle cx="820" cy="57" r="5" fill="#2F6BFF"/><circle cx="838" cy="57" r="5" fill="#fff" opacity=".7"/><circle cx="856" cy="57" r="5" fill="#8AB4FF"/>
+      <rect x="880" y="49" width="230" height="16" rx="8" fill="#fff" fill-opacity=".1"/>
+      <text class="u" x="995" y="61" text-anchor="middle" font-size="9.5" fill="#D9E6FF" letter-spacing="1">sanjev · portfolio</text>
+      <text class="t" x="824" y="116" font-size="38" fill="#8AB4FF" font-style="italic">Sanjev<tspan class="cur" fill="#fff">|</tspan></text>
+      <rect class="bar" x="824" y="130" width="200" height="6" rx="3" fill="#2F6BFF"/>
+      <rect class="bar" x="824" y="144" width="150" height="6" rx="3" fill="#fff" opacity=".55"/>
+      <rect class="bar" x="824" y="158" width="176" height="6" rx="3" fill="#8AB4FF" opacity=".8"/>
+      <rect x="1050" y="86" width="132" height="92" rx="10" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".3"/>
+      <circle cx="1116" cy="124" r="22" fill="#2F6BFF" opacity=".9"/><path d="M1108 124h16m-7-7 7 7-7 7" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</g>
+
+<!-- ticker strip -->
+<g clip-path="url(#pn)">
+  <rect x="14" y="226" width="1240" height="32" fill="url(#blue)"/>
+  <g class="tick u" font-size="13" letter-spacing="5" fill="#fff">
+    <text y="247" x="20">PYTHON ★ FASTAPI ★ REACT ★ MongoDB ★ CLOUD ★ NodeJs ★ FIGMA ★ GIS ★ DOCKER ★ AWS ★ 1ST PLACE ★ PYTHON ★ FASTAPI ★ REACT ★ MongoDB ★ CLOUD ★ NodeJs ★ FIGMA ★ GIS ★ DOCKER ★ AWS ★ 1ST PLACE ★ PYTHON ★ FASTAPI ★ REACT ★ MongoDB ★ CLOUD ★ NodeJs ★ FIGMA ★ GIS ★ DOCKER ★ AWS ★ 1ST PLACE ★</text>
+  </g>
+</g>
+</svg>
