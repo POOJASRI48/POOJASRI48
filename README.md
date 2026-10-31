@@ -1,31 +1,38 @@
-
 <div align="center">
 
-![banner](./assets/banner.svg)
+<img src="./assets/banner.svg" width="100%" alt="Pooja Sri S - Full Stack Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&color=F2C4B8&center=true&vCenter=true&width=700&height=45&lines=Learning.+Building.+Improving.;Full-stack+Developer+from+Coimbatore;Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;Building+Web+Apps+and+AI+Tools" alt="Typing status" />
+<br/>
 
-<img src="https://hits.sh/github.com/POOJASRI48.svg?style=for-the-badge&label=VISITORS&color=D4958A&labelColor=110E10" alt="Visitors" />
-<img src="https://img.shields.io/github/followers/POOJASRI48?style=for-the-badge&color=8C4F57&labelColor=110E10&label=FOLLOWERS" alt="Followers" />
+<h3>Learning. Building. Improving.</h3>
 
-<img src="./assets/heartbeat.svg" width="100%" alt="Heartbeat" />
+<a href="#about">ABOUT</a> &nbsp; ◆ &nbsp;
+<a href="#workflow">WORKFLOW</a> &nbsp; ◆ &nbsp;
+<a href="#toolkit">TOOLKIT</a> &nbsp; ◆ &nbsp;
+<a href="#projects">PROJECTS</a> &nbsp; ◆ &nbsp;
+<a href="#performance">STATS</a> &nbsp; ◆ &nbsp;
+<a href="#contact">CONTACT</a>
+
+<br/><br/>
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
 </div>
 
+<a id="about"></a>
+
 ## 💻 The Developer
 
 ```text
 $ whoami
-→ Pooja Sri S
+→ pooja sri s
 
 $ cat profile.txt
-role     : Software Developer
-focus    : Full-stack development · AI tools
-interests: Web applications · Developer tools
-mindset  : Learning. Building. Improving.
-base     : Coimbatore, India
+role     : software developer
+focus    : full-stack development · AI tools
+interests: web applications · developer tools
+mindset  : learning. building. improving.
+base     : coimbatore, india
 status   : [ ONLINE ]
 ```
 
@@ -33,81 +40,105 @@ status   : [ ONLINE ]
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 </div>
 
+<a id="workflow"></a>
+
 ## ⚡ My Development Workflow
 
-```mermaid
-flowchart LR
-    A["01 · DISCOVER<br/>Understand the problem"] --> B["02 · PLAN<br/>Requirements & Architecture"]
-    B --> C["03 · DESIGN<br/>UI/UX & Wireframes"]
-    C --> D["04 · DEVELOP<br/>Frontend & Backend"]
-    D --> E["05 · TEST<br/>Debug & Validate"]
-    E --> F["06 · DEPLOY<br/>Launch & Monitor"]
+<div align="center">
 
-    style A fill:#17142E,stroke:#8A9BFF,color:#FFFFFF
-    style B fill:#17142E,stroke:#8A9BFF,color:#FFFFFF
-    style C fill:#17142E,stroke:#8A9BFF,color:#FFFFFF
-    style D fill:#17142E,stroke:#8A9BFF,color:#FFFFFF
-    style E fill:#17142E,stroke:#8A9BFF,color:#FFFFFF
-    style F fill:#17142E,stroke:#8A9BFF,color:#FFFFFF
-```
+<img src="./assets/development-workflow.svg" width="100%" alt="Discover, Plan, Design, Develop, Test and Deploy workflow" />
+
+</div>
 
 <div align="center">
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 </div>
+
+<a id="toolkit"></a>
 
 ## 🛠️ The Toolkit
 
-### Programming Languages
+**Programming Languages**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,java" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,java" alt="Python, JavaScript, TypeScript and Java" />
 
 </div>
 
-### Frontend Development
+**Frontend Development**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" alt="React, HTML, CSS and Bootstrap" />
 
 </div>
 
-### Backend Development
+**Backend Development**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=django,nodejs,express" alt="Backend technologies" />
+<img src="https://skillicons.dev/icons?i=django,nodejs,express" alt="Django, Node.js and Express" />
 
 </div>
 
-### Databases
+**Databases**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" alt="MongoDB, PostgreSQL, MySQL and SQLite" />
 
 </div>
 
-### Tools & Platforms
+**Tools & Platforms**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare,cloudinary" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,cloudflare" alt="Git, GitHub, VS Code and Cloudflare" />
 
 </div>
 
-### Libraries & Visualization
+**Libraries & Visualization**
 
-`Plotly` · `Recharts` · `REST APIs` · `JWT Authentication`
+`Plotly` &nbsp; · &nbsp; `Recharts`
 
-### Deployment
+**Other Technologies**
 
-`Render` · `Vercel`
+`REST APIs` &nbsp; · &nbsp; `JWT Authentication` &nbsp; · &nbsp; `Cloudinary`
+
+**Deployment**
+
+`Render` &nbsp; · &nbsp; `Vercel`
 
 <div align="center">
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 </div>
+
+<a id="projects"></a>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://envisionai-xi.vercel.app/">
+<img src="https://img.shields.io/badge/ENVISIONAI-AI%20IMAGE%20GENERATION-8C4F57?style=for-the-badge&labelColor=110E10" alt="ENVISIONAI" />
+</a>
+
+<a href="https://spendvault-1.onrender.com">
+<img src="https://img.shields.io/badge/SPENDVAULT-EXPENSE%20TRACKER-D4958A?style=for-the-badge&labelColor=110E10" alt="SpendVault" />
+</a>
+
+<a href="https://asset-monitoring-system.onrender.com">
+<img src="https://img.shields.io/badge/ASSET%20MONITORING-SYSTEM-8C4F57?style=for-the-badge&labelColor=110E10" alt="Asset Monitoring System" />
+</a>
+
+</div>
+
+<div align="center">
+<img src="./assets/divider.svg" width="100%" alt="Divider" />
+</div>
+
+<a id="performance"></a>
 
 ## 📊 Performance
 
@@ -117,7 +148,11 @@ flowchart LR
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POOJASRI48&layout=compact&hide_border=false&border_color=D4958A&bg_color=110E10&title_color=F2C4B8&text_color=EDE3E0&custom_title=TOP+LANGUAGES" width="48%" alt="Top languages" />
 
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=POOJASRI48&background=110E10&ring=D4958A&fire=F2C4B8&currStreakLabel=F2C4B8&currStreakNum=FFE6DE&sideNums=FFE6DE&sideLabels=D4958A&dates=8C4F57&stroke=8C4F57&border=D4958A" width="70%" alt="GitHub streak" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=POOJASRI48&bg_color=110E10&color=D4958A&line=D4958A&point=FFE6DE&area=true&area_color=8C4F57&hide_border=true&title_color=F2C4B8&custom_title=ACTIVITY+ROUTE" width="100%" alt="GitHub activity graph" />
 
@@ -126,6 +161,8 @@ flowchart LR
 <div align="center">
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 </div>
+
+<a id="contact"></a>
 
 ## 📫 Ping Me
 
@@ -143,7 +180,7 @@ flowchart LR
 <img src="https://img.shields.io/badge/GITHUB-D4958A?style=for-the-badge&logo=github&logoColor=110E10&labelColor=110E10" alt="GitHub" />
 </a>
 
-<br />
+<br/><br/>
 
 **Learning. Building. Improving.**
 
