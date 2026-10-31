@@ -138,32 +138,6 @@ status   : [ ONLINE ]
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 </div>
 
-<a id="performance"></a>
-
-## 📊 Performance
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=POOJASRI48&show_icons=true&hide_border=false&border_color=D4958A&bg_color=110E10&title_color=F2C4B8&icon_color=D4958A&text_color=EDE3E0&count_private=true&include_all_commits=true&custom_title=POOJA+SRI+S+%C2%B7+STATS" width="48%" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POOJASRI48&layout=compact&hide_border=false&border_color=D4958A&bg_color=110E10&title_color=F2C4B8&text_color=EDE3E0&custom_title=TOP+LANGUAGES" width="48%" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=POOJASRI48&background=110E10&ring=D4958A&fire=F2C4B8&currStreakLabel=F2C4B8&currStreakNum=FFE6DE&sideNums=FFE6DE&sideLabels=D4958A&dates=8C4F57&stroke=8C4F57&border=D4958A" width="70%" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=POOJASRI48&bg_color=110E10&color=D4958A&line=D4958A&point=FFE6DE&area=true&area_color=8C4F57&hide_border=true&title_color=F2C4B8&custom_title=ACTIVITY+ROUTE" width="100%" alt="GitHub activity graph" />
-
-</div>
-
-<div align="center">
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
-</div>
-
-<a id="contact"></a>
-
 ## 📫 Ping Me
 
 <div align="center">
