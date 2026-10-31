@@ -6,13 +6,13 @@
 
 <h3>Learning. Building. Improving.</h3>
 
-<a href="#about">ABOUT</a> &nbsp; ◆ &nbsp;
-<a href="#workflow">WORKFLOW</a> &nbsp; ◆ &nbsp;
-<a href="#toolkit">TOOLKIT</a> &nbsp; ◆ &nbsp;
-<a href="#projects">PROJECTS</a> &nbsp; ◆ &nbsp;
-<a href="#performance">STATS</a> &nbsp; ◆ &nbsp;
-<a href="#contact">CONTACT</a>
-
+<p align="center">
+  <a href="https://YOUR-PORTFOLIO-LINK">
+    <img src="https://raw.githubusercontent.com/POOJASRI48/POOJASRI48/main/assets/portfolio-banner.svg"
+         width="100%"
+         alt="Visit My Portfolio"/>
+  </a>
+</p>
 <br/><br/>
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
