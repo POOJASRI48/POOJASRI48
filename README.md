@@ -7,10 +7,10 @@
 <h3>Learning. Building. Improving.</h3>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-LINK">
-    <img src="https://raw.githubusercontent.com/POOJASRI48/POOJASRI48/main/assets/portfolio-banner.svg"
-         width="100%"
-         alt="Visit My Portfolio"/>
+  <img src="./assets/portfolio-banner.svg"
+       width="100%"
+       alt="Portfolio Banner"/>
+</p>
   </a>
 </p>
 <br/><br/>
