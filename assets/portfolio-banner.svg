@@ -1,66 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 290" width="1280" height="290" role="img" aria-label="Open Sanjev's portfolio" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphNDU4YjNmNS1mMDNiLTRjMTAtYWU4Yy02MGVlMTlmNDcyMGIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBQjxUnHYLOjd2saKLKOMaQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4MTQ5MDhhMS1hN2M2LTQ0MTctOWM4NS1lODI5ZDNkMWM1ODRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoq4ARPLTp1txesAohoD4B6AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggFJYVCaM/35ZcPFJi0APZe19B/NPkBi9wxv378D0TP1+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaMNEk5EWhyNaPll7rpm+pBcAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAjx/4/C65HBwEF5T6uTiKZb5du6Nde/An/nik+dmskzWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjIZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmE0NThiM2Y1LWYwM2ItNGMxMC1hZThjLTYwZWUxOWY0NzIwYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjE2NmZiMDE0LWFkMWUtNDRiMi1iNWZlLWFjZDRkMjNkYzIyY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAUlhUJoz/fllw8UmLQA9l7X0H80+QGL3DG/fvwPRM/X6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg3It1PqM4TxNU9oxOkvLu7U+p1GIepPAzokBpH0yhozOiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg0gwj15jyczoZvr/1Lqx2Q4/eCBg6X5S50BZEr9pk0Gp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFUuXG7ofB5Nng1D9KHNtT4o9H5glkDsQaZ78943sq3Tjl0/dwNN8FTQy8V5dv+ITUEf05xQwLbjORb6cmrs5FM=</c2pa:manifest></metadata>
-<defs>
- <linearGradient id="red" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00022E"/><stop offset="1" stop-color="#000118"/></linearGradient>
- <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00021A"/><stop offset="1" stop-color="#00022E"/></linearGradient>
- <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.5" fill="#fff" opacity=".08"/></pattern>
- <clipPath id="pn"><rect x="14" y="14" width="1240" height="244"/></clipPath>
- <clipPath id="win"><rect x="800" y="44" width="400" height="150" rx="12"/></clipPath>
-</defs>
-<style>
- .t{font-family:Anton,Impact,Haettenschweiler,"Arial Narrow Bold","Arial Black",sans-serif}
- .u{font-family:Inter,"Segoe UI",Arial,sans-serif;font-weight:700}
- .tick{animation:tick 26s linear infinite}
- .btn{transform-origin:240px 190px;animation:beat 1.6s ease-in-out infinite}
- .rays{transform-origin:1000px 118px;animation:spin 70s linear infinite}
- .bar{transform-box:fill-box;transform-origin:left;animation:grow 3.2s ease-in-out infinite alternate}
- .bar:nth-of-type(2){animation-delay:-1s}.bar:nth-of-type(3){animation-delay:-2s}
- .cur{animation:blink 1s steps(1) infinite}
- @keyframes tick{to{transform:translateX(-960px)}}
- @keyframes beat{50%{transform:scale(1.05)}}
- @keyframes spin{to{transform:rotate(360deg)}}
- @keyframes grow{from{transform:scaleX(.35)}to{transform:scaleX(1)}}
- @keyframes blink{50%{opacity:0}}
- @media (prefers-reduced-motion:reduce){*{animation:none!important}}
-</style>
-<!-- hard comic shadow + panel -->
-<rect x="26" y="26" width="1240" height="244" fill="#000" opacity=".6"/>
-<rect x="14" y="14" width="1240" height="244" fill="url(#panel)" stroke="#fff" stroke-width="6"/>
-<g clip-path="url(#pn)">
- <rect x="14" y="14" width="1240" height="244" fill="url(#dots)"/>
- <g class="rays"><circle cx="1000" cy="118" r="300" fill="none" stroke="#fff" stroke-opacity=".06" stroke-width="600" stroke-dasharray="40 40"/></g>
- <!-- left copy -->
- <text class="u" x="60" y="64" font-size="13" letter-spacing="6" fill="#8A9BFF">THE FULL STORY</text>
- <text class="t" x="60" y="132" font-size="74" fill="#fff" stroke="#00010A" stroke-width="4" paint-order="stroke" textLength="640" lengthAdjust="spacingAndGlyphs">SEE MY PORTFOLIO</text>
- <text class="u" x="62" y="154" font-size="16" fill="#D9DEFF" letter-spacing="1">Projects · Toolchain · Hackathon wins · Process</text>
- <!-- button -->
- <g class="btn">
- <rect x="62" y="170" width="356" height="40" rx="20" fill="#000" opacity=".5" transform="translate(5 5)"/>
- <rect x="62" y="170" width="356" height="40" rx="20" fill="url(#red)" stroke="#fff" stroke-width="3"/>
- <text class="u" x="240" y="196" text-anchor="middle" font-size="15" letter-spacing="4" fill="#fff">OPEN THE SITE ↗</text>
- </g>
- <!-- browser mock -->
- <g>
- <rect x="812" y="56" width="400" height="150" rx="12" fill="#000" opacity=".5"/>
- <rect x="800" y="44" width="400" height="150" rx="12" fill="#00010A" stroke="#fff" stroke-opacity=".5" stroke-width="2"/>
- <g clip-path="url(#win)">
- <rect x="800" y="44" width="400" height="26" fill="#fff" fill-opacity=".08"/>
- <circle cx="820" cy="57" r="5" fill="#00022E"/><circle cx="838" cy="57" r="5" fill="#fff" opacity=".7"/><circle cx="856" cy="57" r="5" fill="#8A9BFF"/>
- <rect x="880" y="49" width="230" height="16" rx="8" fill="#fff" fill-opacity=".1"/>
- <text class="u" x="995" y="61" text-anchor="middle" font-size="9.5" fill="#D9DEFF" letter-spacing="1">sanjev · portfolio</text>
- <text class="t" x="824" y="116" font-size="38" fill="#8A9BFF" font-style="italic">Sanjev<tspan class="cur" fill="#fff">|</tspan></text>
- <rect class="bar" x="824" y="130" width="200" height="6" rx="3" fill="#00022E"/>
- <rect class="bar" x="824" y="144" width="150" height="6" rx="3" fill="#fff" opacity=".55"/>
- <rect class="bar" x="824" y="158" width="176" height="6" rx="3" fill="#8A9BFF" opacity=".8"/>
- <rect x="1050" y="86" width="132" height="92" rx="10" fill="#fff" fill-opacity=".08" stroke="#fff" stroke-opacity=".3"/>
- <circle cx="1116" cy="124" r="22" fill="#00022E" opacity=".9"/><path d="M1108 124h16m7-7 7 7-7 7" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
- </g>
- </g>
-</g>
-<!-- ticker strip -->
-<g clip-path="url(#pn)">
- <rect x="14" y="226" width="1240" height="32" fill="#00022E"/>
- <g class="tick u" font-size="13" letter-spacing="5" fill="#fff">
- <text y="247" x="20">PYTHON ★ FASTAPI ★ REACT ★ UI / UX ★ CLOUD ★ ML ★ FIGMA ★ GIS ★ DOCKER ★ AWS ★ 1ST PLACE ★ PYTHON ★ FASTAPI ★ REACT ★ UI / UX ★ CLOUD ★ ML ★ FIGMA ★ GIS ★ DOCKER ★ AWS ★ 1ST PLACE ★ PYTHON ★ FASTAPI ★ REACT ★ UI / UX ★ CLOUD ★ ML ★ FIGMA ★ GIS ★ DOCKER ★ AWS ★ 1ST PLACE ★</text>
- </g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 290" width="1280" height="290" role="img" aria-label="Poojasri S - Full Stack Developer portfolio">
+  <defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101B45"/>
+      <stop offset="1" stop-color="#050B20"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07132F"/>
+      <stop offset="1" stop-color="#101D49"/>
+    </linearGradient>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.2" fill="#FFFFFF" opacity=".09"/>
+    </pattern>
+    <clipPath id="frame"><rect x="14" y="14" width="1252" height="262"/></clipPath>
+    <clipPath id="browser"><rect x="800" y="44" width="400" height="150" rx="12"/></clipPath>
+  </defs>
+  <style>
+    .display{font-family:Impact,"Arial Black",sans-serif;font-weight:900}
+    .ui{font-family:Inter,"Segoe UI",Arial,sans-serif;font-weight:700}
+    .ticker{animation:move 28s linear infinite}
+    .button{transform-origin:240px 190px;animation:pulse 1.8s ease-in-out infinite}
+    .rays{transform-origin:1000px 118px;animation:rotate 80s linear infinite}
+    .load{transform-box:fill-box;transform-origin:left;animation:load 3s ease-in-out infinite alternate}
+    .load:nth-of-type(2){animation-delay:-1s}
+    .load:nth-of-type(3){animation-delay:-2s}
+    .cursor{animation:blink 1s steps(1) infinite}
+    @keyframes move{to{transform:translateX(-960px)}}
+    @keyframes pulse{50%{transform:scale(1.045)}}
+    @keyframes rotate{to{transform:rotate(360deg)}}
+    @keyframes load{from{transform:scaleX(.35)}to{transform:scaleX(1)}}
+    @keyframes blink{50%{opacity:0}}
+    @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+
+  <rect x="26" y="26" width="1240" height="244" fill="#000000" opacity=".55"/>
+  <rect x="14" y="14" width="1252" height="262" fill="url(#panel)" stroke="#FFFFFF" stroke-width="5"/>
+  <g clip-path="url(#frame)">
+    <rect x="14" y="14" width="1252" height="262" fill="url(#dots)"/>
+    <g class="rays">
+      <circle cx="1000" cy="118" r="300" fill="none" stroke="#FFFFFF" stroke-opacity=".055" stroke-width="600" stroke-dasharray="40 40"/>
+    </g>
+
+    <text class="ui" x="60" y="64" font-size="13" letter-spacing="6" fill="#AFC3FF">FULL STACK DEVELOPER</text>
+    <text class="display" x="60" y="132" font-size="76" fill="#FFFFFF" stroke="#030817" stroke-width="4" paint-order="stroke" textLength="650" lengthAdjust="spacingAndGlyphs">POOJASRI S</text>
+    <text class="ui" x="62" y="157" font-size="16" fill="#E5EBFF" letter-spacing="1">Building web applications · Exploring ideas · Solving problems</text>
+
+    <!-- Decorative call-to-action; wrap the banner image in a link in README.md -->
+    <g class="button">
+      <rect x="67" y="175" width="356" height="40" rx="20" fill="#000000" opacity=".45" transform="translate(4 4)"/>
+      <rect x="62" y="170" width="356" height="40" rx="20" fill="url(#navy)" stroke="#FFFFFF" stroke-width="2.5"/>
+      <text class="ui" x="240" y="196" text-anchor="middle" font-size="15" letter-spacing="3" fill="#FFFFFF">OPEN MY PORTFOLIO ↗</text>
+    </g>
+
+    <!-- Browser preview -->
+    <rect x="812" y="56" width="400" height="150" rx="12" fill="#000000" opacity=".45"/>
+    <rect x="800" y="44" width="400" height="150" rx="12" fill="#050B20" stroke="#FFFFFF" stroke-opacity=".55" stroke-width="2"/>
+    <g clip-path="url(#browser)">
+      <rect x="800" y="44" width="400" height="26" fill="#FFFFFF" fill-opacity=".08"/>
+      <circle cx="820" cy="57" r="5" fill="#AFC3FF"/>
+      <circle cx="838" cy="57" r="5" fill="#FFFFFF" opacity=".75"/>
+      <circle cx="856" cy="57" r="5" fill="#526FBF"/>
+      <rect x="880" y="49" width="230" height="16" rx="8" fill="#FFFFFF" fill-opacity=".1"/>
+      <text class="ui" x="995" y="61" text-anchor="middle" font-size="9.5" fill="#E5EBFF" letter-spacing="1">poojasri · portfolio</text>
+      <text class="display" x="824" y="116" font-size="34" fill="#AFC3FF">Poojasri<tspan class="cursor" fill="#FFFFFF">|</tspan></text>
+      <rect class="load" x="824" y="130" width="200" height="6" rx="3" fill="#FFFFFF"/>
+      <rect class="load" x="824" y="144" width="150" height="6" rx="3" fill="#AFC3FF" opacity=".8"/>
+      <rect class="load" x="824" y="158" width="176" height="6" rx="3" fill="#526FBF"/>
+      <rect x="1050" y="86" width="132" height="92" rx="10" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".35"/>
+      <circle cx="1116" cy="124" r="22" fill="#172B65"/>
+      <path d="M1108 124h16m-7-7 7 7-7 7" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <!-- Scrolling skills strip -->
+    <rect x="14" y="236" width="1252" height="40" fill="#071536"/>
+    <g class="ticker ui" font-size="13" letter-spacing="4" fill="#FFFFFF">
+      <text x="20" y="261">PYTHON ★ DJANGO ★ JAVASCRIPT ★ REACT ★ TYPESCRIPT ★ NODE.JS ★ MONGODB ★ POSTGRESQL ★ GIT ★ PYTHON ★ DJANGO ★ JAVASCRIPT ★ REACT ★ TYPESCRIPT ★ NODE.JS ★ MONGODB ★ POSTGRESQL ★ GIT ★</text>
+    </g>
+  </g>
 </svg>
