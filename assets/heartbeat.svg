@@ -50,7 +50,7 @@
       <circle cx="820" cy="57" r="5" fill="#2F6BFF"/><circle cx="838" cy="57" r="5" fill="#fff" opacity=".7"/><circle cx="856" cy="57" r="5" fill="#8AB4FF"/>
       <rect x="880" y="49" width="230" height="16" rx="8" fill="#fff" fill-opacity=".1"/>
       <text class="u" x="995" y="61" text-anchor="middle" font-size="9.5" fill="#D9E6FF" letter-spacing="1">sanjev · portfolio</text>
-      <text class="t" x="824" y="116" font-size="38" fill="#8AB4FF" font-style="italic">Sanjev<tspan class="cur" fill="#fff">|</tspan></text>
+      <text class="t" x="824" y="116" font-size="38" fill="#8AB4FF" font-style="italic">POOJA SRI<tspan class="cur" fill="#fff">|</tspan></text>
       <rect class="bar" x="824" y="130" width="200" height="6" rx="3" fill="#2F6BFF"/>
       <rect class="bar" x="824" y="144" width="150" height="6" rx="3" fill="#fff" opacity=".55"/>
       <rect class="bar" x="824" y="158" width="176" height="6" rx="3" fill="#8AB4FF" opacity=".8"/>
@@ -64,7 +64,7 @@
 <g clip-path="url(#pn)">
   <rect x="14" y="226" width="1240" height="32" fill="url(#blue)"/>
   <g class="tick u" font-size="13" letter-spacing="5" fill="#fff">
-    <text y="247" x="20">PYTHON ★ FASTAPI ★ REACT ★ MongoDB ★ CLOUD ★ NodeJs ★ FIGMA ★ GIS ★ DOCKER ★ AWS ★ 1ST PLACE ★ PYTHON ★ FASTAPI ★ REACT ★ MongoDB ★ CLOUD ★ NodeJs ★ FIGMA ★ GIS ★ DOCKER ★ AWS ★ 1ST PLACE ★ PYTHON ★ FASTAPI ★ REACT ★ MongoDB ★ CLOUD ★ NodeJs ★ FIGMA ★ GIS ★ DOCKER ★ AWS ★ 1ST PLACE ★</text>
+    <text y="247" x="20">PYTHON ★ JAVASCRIPT ★ TYPESCRIPT ★ JAVA ★ SQL ★ REACT.JS ★ HTML5 ★ CSS3 ★ BOOTSTRAP ★ DJANGO ★ NODE.JS ★ EXPRESS.JS ★ REST APIs ★ JWT ★ MONGODB ★ POSTGRESQL ★ SQLITE3 ★ MYSQL ★ PLOTLY ★ RECHARTS ★ GIT ★ GITHUB ★ VS CODE ★ CLOUDINARY ★ CLOUDFLARE ★ RENDER ★ VERCEL ★
   </g>
 </g>
 </svg>
