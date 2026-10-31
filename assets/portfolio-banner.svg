@@ -41,14 +41,14 @@
     </g>
 
     <text class="ui" x="60" y="64" font-size="13" letter-spacing="6" fill="#AFC3FF">FULL STACK DEVELOPER</text>
-    <text class="display" x="60" y="132" font-size="76" fill="#FFFFFF" stroke="#030817" stroke-width="4" paint-order="stroke" textLength="650" lengthAdjust="spacingAndGlyphs">POOJASRI S</text>
+    <text class="display" x="60" y="132" font-size="76" fill="#FFFFFF" stroke="#030817" stroke-width="4" paint-order="stroke" textLength="650" lengthAdjust="spacingAndGlyphs">SEE MY PORTFOLIO</text>
     <text class="ui" x="62" y="157" font-size="16" fill="#E5EBFF" letter-spacing="1">Building web applications · Exploring ideas · Solving problems</text>
 
     <!-- Decorative call-to-action; wrap the banner image in a link in README.md -->
     <g class="button">
       <rect x="67" y="175" width="356" height="40" rx="20" fill="#000000" opacity=".45" transform="translate(4 4)"/>
       <rect x="62" y="170" width="356" height="40" rx="20" fill="url(#navy)" stroke="#FFFFFF" stroke-width="2.5"/>
-      <text class="ui" x="240" y="196" text-anchor="middle" font-size="15" letter-spacing="3" fill="#FFFFFF">OPEN MY PORTFOLIO ↗</text>
+      <text class="ui" x="240" y="196" text-anchor="middle" font-size="15" letter-spacing="3" fill="#FFFFFF"> CLICK HERE TO OPEN ↗</text>
     </g>
 
     <!-- Browser preview -->
