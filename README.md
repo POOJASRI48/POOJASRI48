@@ -116,46 +116,37 @@ status   : [ ONLINE ]
 
 <a id="projects"></a>
 
+
 ## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="YOUR_AI_PROJECT_REPO">
+    <img src="https://img.shields.io/badge/AI_IMAGE_GENERATION-0B1F4D?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://github.com/POOJASRI48/SpendVault">
+    <img src="https://img.shields.io/badge/SPENDVAULT-0B1F4D?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://github.com/POOJASRI48/asset-monitoring-system">
+    <img src="https://img.shields.io/badge/ASSET_MONITORING_SYSTEM-0B1F4D?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://envisionai-xi.vercel.app/">
-<img src="https://img.shields.io/badge/ENVISIONAI-AI%20IMAGE%20GENERATION-8C4F57?style=for-the-badge&labelColor=110E10" alt="ENVISIONAI" />
-</a>
+---
 
-<a href="https://spendvault-1.onrender.com">
-<img src="https://img.shields.io/badge/SPENDVAULT-EXPENSE%20TRACKER-D4958A?style=for-the-badge&labelColor=110E10" alt="SpendVault" />
-</a>
+## 📬 Ping Me
 
-<a href="https://asset-monitoring-system.onrender.com">
-<img src="https://img.shields.io/badge/ASSET%20MONITORING-SYSTEM-8C4F57?style=for-the-badge&labelColor=110E10" alt="Asset Monitoring System" />
-</a>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-0B1F4D?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/POOJASRI48">
+    <img src="https://img.shields.io/badge/GITHUB-0B1F4D?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-</div>
-
-<div align="center">
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
-</div>
-
-## 📫 Ping Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/poojasri-senthilnathan">
-<img src="https://img.shields.io/badge/LINKEDIN-D4958A?style=for-the-badge&logo=linkedin&logoColor=110E10&labelColor=110E10" alt="LinkedIn" />
-</a>
-
-<a href="mailto:poojasenkavi@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D4958A?style=for-the-badge&logo=gmail&logoColor=110E10&labelColor=110E10" alt="Email" />
-</a>
-
-<a href="https://github.com/POOJASRI48">
-<img src="https://img.shields.io/badge/GITHUB-D4958A?style=for-the-badge&logo=github&logoColor=110E10&labelColor=110E10" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-**Learning. Building. Improving.**
-
-</div>
+<p align="center">
+  <b>Crafting ideas into meaningful digital experiences.</b>
+</p>
